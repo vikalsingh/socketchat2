@@ -1,4 +1,8 @@
 # socketchat2
-This is simple chat using socket.io
+This is real time or instant message chat with 2 users.
+This app create with the help of NodeJs and socket.io
 
-IN this program we will send message to client through server(Node server).
+You can download it and install Node firstly,
+then install express and socket.io
+	npm install express
+	npm install socket.io
