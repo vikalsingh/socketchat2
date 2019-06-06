@@ -1,0 +1,26 @@
+{
+  "name": "socketchat",
+  "version": "1.0.0",
+  "description": "this is socket chat",
+  "main": "app",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikalsingh/socketchat2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Vikal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikalsingh/socketchat2/issues"
+  },
+  "homepage": "https://github.com/vikalsingh/socketchat2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
